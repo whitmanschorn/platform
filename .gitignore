@@ -5,4 +5,4 @@ _site
 Gemfile.lock
 *.gem
 s3_website.yml
-_site/aws-credentials.json
+aws-credentials.json
